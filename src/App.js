@@ -5,18 +5,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          .-COSMIC GLAMOUR-. by mattFrye
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>UNDER CONSTRUCTION</p>
+        <img class="simple-image__img" src="https://motherboard-images.vice.com/content-images/contentimage/26327/1444070216325387.gif" width="600" height="32"></img>
+        
       </header>
     </div>
   );
